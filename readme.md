@@ -8,15 +8,17 @@
 
 > 作者：GT协会
 
+> 下载链接：https://www.123865.com/s/UK1KVv-QSdtv
+
 ## 宣传展示
 
-![image-20241203202544440](readme\image-20241203202544440.png)
+![image-20241203202544440](https://pic.imgdb.cn/item/674f0182d0e0a243d4dcd9d0.png)
 
-![image-20241203202616673](readme\image-20241203202616673.png)
+![image-20241203202616673](https://pic.imgdb.cn/item/674f0183d0e0a243d4dcd9d1.png)
 
-![image-20241203202646447](readme\image-20241203202646447.png)
+![image-20241203202646447](https://pic.imgdb.cn/item/674f0183d0e0a243d4dcd9d2.png)
 
-![image-20241203203903348](readme\image-20241203203903348.png)
+![image-20241203203903348](https://pic.imgdb.cn/item/674f0183d0e0a243d4dcd9d3.png)
 
 ## 修改内容
 
@@ -94,11 +96,11 @@ D盘：速度快，但有的电脑可能没有D盘分区
 
 本目录：速度慢，但是可以多次使用，不用担心残留
 
-![image-20241203204244885](readme\image-20241203204244885.png)
+![image-20241203204244885](https://pic.imgdb.cn/item/674f0184d0e0a243d4dcd9d4.png)
 
 2.运行完毕后，对应目录会自动打开，运行WPSLauncher.exe，或者创建快捷方式
 
-![image-20241203204509493](readme\image-20241203204509493.png)
+![image-20241203204509493](https://pic.imgdb.cn/item/674f0187d0e0a243d4dcd9d5.png)
 
 3.点击绿化按钮里面的绿化，随后选择对应功能打开
 
@@ -106,9 +108,9 @@ D盘：速度快，但有的电脑可能没有D盘分区
 
 如果提示组件缺失，点击注册按钮选择修复即可
 
-![image-20241203204609923](readme\image-20241203204609923.png)
+![image-20241203204609923](https://pic.imgdb.cn/item/674f0188d0e0a243d4dcd9d6.png)
 
-![image-20241203204637759](readme\image-20241203204637759.png)
+![image-20241203204637759](https://pic.imgdb.cn/item/674f0188d0e0a243d4dcd9d7.png)
 
 4.使用完毕后点击绿化按钮里面的卸载（不要在已经有WPS的电脑上面使用这个功能）
 
