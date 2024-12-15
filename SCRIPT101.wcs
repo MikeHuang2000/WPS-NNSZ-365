@@ -1,0 +1,16 @@
+_SUB WIN1,W474H243,WPSLauncher,
+    ITEM ITEM1,L60T48W60H30,文字,EXEC =%CurDir%\office6\wps.exe,
+    ITEM ITEM2,L160T48W60H30,演示,EXEC =%CurDir%\office6\wpp.exe,
+    ITEM ITEM3,L260T49W60H30,表格,EXEC =%CurDir%\office6\et.exe,
+    ITEM ITEM4,L360T51W60H30,PDF,EXEC =%CurDir%\office6\wpspdf.exe,
+    ITEM ITEM5,L60T90W60H30,导图,EXEC =%CurDir%\DesktopNaotu\DesktopNaotu.exe,
+    ITEM ITEM6,L160T90W60H30,流程,EXEC =%CurDir%\draw.io_20.8.10_Single.exe,
+    ITEM ITEM7,L260T90W60H30,日历,EXEC =%CurDir%\DesktopCalendar\DesktopCalendar.exe,
+    ITEM ITEM8,L360T90W60H30,计时,EXEC =%CurDir%\DesktopTimer\DesktopTimer.exe,
+    ITEM ITEM9,L60T135W60H30,便签,EXEC =%CurDir%\DesktopNote\DesktopNote.exe,
+    ITEM ITEM10,L160T135W60H30,绿化,EXEC =%CurDir%\绿化卸载.exe,
+    ITEM ITEM11,L260T135W60H30,注册,EXEC =%CurDir%\office6\ksomisc.exe,
+    ITEM ITEM12,L360T135W60H30,说明,MESS 基于果核剥壳专业版、雨糖科技专业审计版和释怀专业特别版绿化后永久激活\n去除所有云文档相关组件，不在我的电脑出现WPS文档文件夹\n不能登录，支持2016版序列号，不显示WPS秀堂H5，不启用微博插件\n不显示账户登陆中心，不显示WPS云文档，不显示我的电脑WPS云盘，WPS便签不可用\n启用内部企业版启用企业高级版特权，不显示文件打印水印\n集成公文模板、便签、日历、计时器\n支持VBS和核密@说明,
+_END
+
+CALL WIN1
